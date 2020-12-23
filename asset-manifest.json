@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/tintantrico/static/css/main.6ce85a0a.chunk.css",
+    "main.js": "/tintantrico/static/js/main.d31d1224.chunk.js",
+    "main.js.map": "/tintantrico/static/js/main.d31d1224.chunk.js.map",
+    "runtime-main.js": "/tintantrico/static/js/runtime-main.cfb56577.js",
+    "runtime-main.js.map": "/tintantrico/static/js/runtime-main.cfb56577.js.map",
+    "static/js/2.2f0ca69a.chunk.js": "/tintantrico/static/js/2.2f0ca69a.chunk.js",
+    "static/js/2.2f0ca69a.chunk.js.map": "/tintantrico/static/js/2.2f0ca69a.chunk.js.map",
+    "index.html": "/tintantrico/index.html",
+    "static/css/main.6ce85a0a.chunk.css.map": "/tintantrico/static/css/main.6ce85a0a.chunk.css.map",
+    "static/js/2.2f0ca69a.chunk.js.LICENSE.txt": "/tintantrico/static/js/2.2f0ca69a.chunk.js.LICENSE.txt",
+    "static/media/ester.jpg": "/tintantrico/static/media/ester.7600a860.jpg",
+    "static/media/juliana.jpg": "/tintantrico/static/media/juliana.6248a391.jpg",
+    "static/media/lucia.jpg": "/tintantrico/static/media/lucia.8c22494b.jpg",
+    "static/media/marieva.jpg": "/tintantrico/static/media/marieva.7ca632d9.jpg",
+    "static/media/natacha.jpg": "/tintantrico/static/media/natacha.ccaf2099.jpg",
+    "static/media/padrinho-photo.png": "/tintantrico/static/media/padrinho-photo.30e2e437.png",
+    "static/media/sheron.jpg": "/tintantrico/static/media/sheron.de53d33c.jpg",
+    "static/media/tabata.jpg": "/tintantrico/static/media/tabata.5dca2db3.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cfb56577.js",
+    "static/js/2.2f0ca69a.chunk.js",
+    "static/css/main.6ce85a0a.chunk.css",
+    "static/js/main.d31d1224.chunk.js"
+  ]
+}
